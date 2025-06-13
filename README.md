@@ -4,7 +4,7 @@
 
 🎲 Social Media Marketing(1year experience) 
 
-🛠 I focus on solving web scraping projects
+🛠 I focus on solving web scraping projects and developing helpful chat-bots
 
 📩 My TG: @Vermeei 
 
