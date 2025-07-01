@@ -1,6 +1,6 @@
 ## Hi, I'm Flamme🎇
 
-🎟 Computer science student
+🎟 Currently at 16
 
 🎲 Social Media Marketing(1year experience) 
 
