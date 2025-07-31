@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Flamme🎇<br><br>🎟 Currently at 16<br><br>🎲 Social Media Marketing(1year experience) <br><br>🛠 I focus on ML/AI projects<br><br>📩 My TG: @Vermeei 
+Hi, I'm Flamme🎇<br><br>🎲 Social Media Marketing(1year experience) <br><br>🛠 I focus on ML/AI projects<br><br>📩 My TG: @Vermeei 
 
 
 # 💻 Tech Stack:
