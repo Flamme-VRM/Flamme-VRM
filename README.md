@@ -9,9 +9,6 @@ Hi, I'm Flamme🎇<br><br>🎲 Social Media Marketing(1year experience) <br><br>
 ![](https://nirzak-streak-stats.vercel.app/?user=Flamme-VRM&theme=monokai&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Flamme-VRM&theme=monokai&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Flamme-VRM&icon=3&color=11)](https://visitcount.itsvg.in)
 
