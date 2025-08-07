@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Flamme🎇<br><br>🎲 Social Media Marketing(1year experience) <br><br>🛠 I focus on Back-end; ML/AI projects<br><br>📩 My TG: @Vermeei 
+Hi, I'm Flamme🎇<br><br>🛠 I focus on Back-end; ML/AI projects<br><br>📩 My TG: @Vermeei 
 
 
 # 💻 Tech Stack:
