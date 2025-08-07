@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Flamme🎇<br><br>🛠 I focus on Back-end; ML/AI projects<br><br>📩 My TG: @Vermeei 
+Hi, I'm Flamme🎇<br><br>🛠 I focus on Back-end; ML/AI projects<br><br>📩TikTok: @TaktoPython<br><br>📩TG: @Vermeei 
 
 
 # 💻 Tech Stack:
